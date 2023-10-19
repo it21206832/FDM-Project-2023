@@ -11,8 +11,6 @@ enhanced diabetes care while harnessing vast patient data for academic and healt
 
 ![image](https://github.com/it21206832/FDM-Project-G29/assets/88273795/02892851-4ba0-4104-abca-23f53a951a0e)
 
-![image](https://github.com/it21206832/FDM-Project-G29/assets/88273795/97c9f100-9f61-47e8-ab0d-d8c5fac4d5ae)
-
 ![image](https://github.com/it21206832/FDM-Project-G29/assets/88273795/dce57d33-4911-4f1c-a6ff-11dc32dd71bc)
 
 ![image](https://github.com/it21206832/FDM-Project-G29/assets/88273795/54f4afdd-0fe1-4158-8637-fc5f4a223942)
